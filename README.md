@@ -1,7 +1,10 @@
-duovia-fuzzystrings
+fuzzystrings.netstandard
 ==========
 
-DuoVia.FuzzyStrings
+Contains the original/unmodified code of [DuoVia.FuzzyStrings][2]
+but with multiple build targets for both net40 and netstandard16. Compatible with dotnet classic and dotnet core frameworks.
+
+Fork of [DuoVia.FuzzyStrings][2]
 ----------
 > 
 > [Get the NuGet Package][1]
@@ -35,4 +38,5 @@ Included Algorithms
 > 
 > The author hopes you will use and help improve this library.
 
-[1]: http://nuget.org/packages/DuoVia.FuzzyStrings/   "Get the NuGet Package"
+[1]: http://nuget.org/packages/FuzzyStrings.NetStandard/   "Get the NuGet Package"
+[2]: https://github.com/tylerjensen/duovia-fuzzystrings "Duovia.FuzzieStrings"
