@@ -40,6 +40,7 @@ local.properties
 *.suo
 *.user
 *.sln.docstates
+.vs/
 
 # Build results
 [Dd]ebug/
@@ -76,6 +77,7 @@ ipch/
 # Visual Studio profiler
 *.psess
 *.vsp
+
 
 # ReSharper is a .NET coding add-in
 _ReSharper*
