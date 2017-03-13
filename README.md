@@ -1,8 +1,9 @@
 fuzzystrings.netstandard
 ==========
 
-Contains the original/unmodified code of [DuoVia.FuzzyStrings][2]
+Contains the (almost umodified) code of [DuoVia.FuzzyStrings][2]
 but with multiple build targets for both net40 and netstandard16. Compatible with dotnet classic and dotnet core frameworks.
+Furthermore the Levenshtein algorithm has been fixed, since the original implementation computed a wrong Levenshtein distance in some cases.
 
 Fork of [DuoVia.FuzzyStrings][2]
 ----------
